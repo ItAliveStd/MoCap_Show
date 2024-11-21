@@ -1,0 +1,11 @@
+UDP & TCP Sender
+https://github.com/Zayik/CommandSender
+
+OSC Sender (doesn't work)
+https://github.com/shells-dw/streamdeck-osc
+
+Vmix Integration
+https://www.vmix.com/knowledgebase/article.aspx/180/using-the-elgato-stream-deck-with-vmix
+
+OBS Integration
+https://help.elgato.com/hc/en-us/articles/360028239431--Elgato-Stream-Deck-OBS-Studio-Integration 
